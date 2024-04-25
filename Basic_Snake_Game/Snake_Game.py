@@ -25,7 +25,6 @@ screen_width = 500
 window = pygame.display.set_mode((screen_height, screen_width))
 pygame.display.set_caption("Snake_Game_1.0") 
 
-
 def draw_screen():
 
     if not end:
